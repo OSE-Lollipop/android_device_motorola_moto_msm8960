@@ -137,3 +137,5 @@ BOARD_SEPOLICY_UNION += \
     thermal-engine.te \
     ueventd.te \
     whisperd.te
+
+OSE_OPTIMIZE=true
